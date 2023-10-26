@@ -9,7 +9,7 @@
   },
   "framework": "vite",
   "aliases": {
-    "components": "@/components",
+    "components": "@/Components",
     "utils": "@/lib/utils"
   }
 }
