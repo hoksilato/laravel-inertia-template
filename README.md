@@ -1,4 +1,4 @@
-# WGTP (Which game to play? - Chơi game gì?)
+# Project template with Laravel & Inertia
 
 ## Stack
 
